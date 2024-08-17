@@ -49,7 +49,7 @@ const NavBar = props => {
   return (
     <nav className="navbar-container d-flex align-items-center p-3">
       <div className="logo-container">
-        <h1 className="page-logo">Movie Database</h1>
+        <h1 className="page-logo">movieDB</h1>
       </div>
       <div className="ms-auto d-flex align-items-center">
         <ul className="order-1 d-flex align-items-center p-0 mb-0 ms-3 nav-items-list">
